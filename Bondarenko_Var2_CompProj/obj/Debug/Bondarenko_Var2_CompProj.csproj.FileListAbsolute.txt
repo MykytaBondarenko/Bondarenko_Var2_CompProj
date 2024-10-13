@@ -1,0 +1,22 @@
+C:\Users\Никита\Desktop\Bondarenko_Var2_CompProj\Bondarenko_Var2_CompProj\bin\Debug\Bondarenko_Var2_CompProj.exe.config
+C:\Users\Никита\Desktop\Bondarenko_Var2_CompProj\Bondarenko_Var2_CompProj\bin\Debug\Bondarenko_Var2_CompProj.exe
+C:\Users\Никита\Desktop\Bondarenko_Var2_CompProj\Bondarenko_Var2_CompProj\bin\Debug\Bondarenko_Var2_CompProj.pdb
+C:\Users\Никита\Desktop\Bondarenko_Var2_CompProj\Bondarenko_Var2_CompProj\obj\Debug\Bondarenko_Var2_CompProj.csprojAssemblyReference.cache
+C:\Users\Никита\Desktop\Bondarenko_Var2_CompProj\Bondarenko_Var2_CompProj\obj\Debug\Bondarenko_Var2_CompProj.Properties.Resources.resources
+C:\Users\Никита\Desktop\Bondarenko_Var2_CompProj\Bondarenko_Var2_CompProj\obj\Debug\Bondarenko_Var2_CompProj.csproj.GenerateResource.cache
+C:\Users\Никита\Desktop\Bondarenko_Var2_CompProj\Bondarenko_Var2_CompProj\obj\Debug\Bondarenko_Var2_CompProj.csproj.CoreCompileInputs.cache
+C:\Users\Никита\Desktop\Bondarenko_Var2_CompProj\Bondarenko_Var2_CompProj\obj\Debug\Bondarenko_Var2_CompProj.exe
+C:\Users\Никита\Desktop\Bondarenko_Var2_CompProj\Bondarenko_Var2_CompProj\obj\Debug\Bondarenko_Var2_CompProj.pdb
+C:\Users\Никита\Desktop\Bondarenko_Var2_CompProj\Bondarenko_Var2_CompProj\obj\Debug\Bondarenko_Var2_CompProj.frmTitul.resources
+C:\Users\Никита\Desktop\Bondarenko_Var2_CompProj\Bondarenko_Var2_CompProj\obj\Debug\Bondarenko_Var2_CompProj.frmMain.resources
+E:\LIT 22-23\Bondarenko_Var2_CompProj\Bondarenko_Var2_CompProj\bin\Debug\Bondarenko_Var2_CompProj.exe.config
+E:\LIT 22-23\Bondarenko_Var2_CompProj\Bondarenko_Var2_CompProj\bin\Debug\Bondarenko_Var2_CompProj.exe
+E:\LIT 22-23\Bondarenko_Var2_CompProj\Bondarenko_Var2_CompProj\bin\Debug\Bondarenko_Var2_CompProj.pdb
+E:\LIT 22-23\Bondarenko_Var2_CompProj\Bondarenko_Var2_CompProj\obj\Debug\Bondarenko_Var2_CompProj.csprojAssemblyReference.cache
+E:\LIT 22-23\Bondarenko_Var2_CompProj\Bondarenko_Var2_CompProj\obj\Debug\Bondarenko_Var2_CompProj.frmMain.resources
+E:\LIT 22-23\Bondarenko_Var2_CompProj\Bondarenko_Var2_CompProj\obj\Debug\Bondarenko_Var2_CompProj.frmTitul.resources
+E:\LIT 22-23\Bondarenko_Var2_CompProj\Bondarenko_Var2_CompProj\obj\Debug\Bondarenko_Var2_CompProj.Properties.Resources.resources
+E:\LIT 22-23\Bondarenko_Var2_CompProj\Bondarenko_Var2_CompProj\obj\Debug\Bondarenko_Var2_CompProj.csproj.GenerateResource.cache
+E:\LIT 22-23\Bondarenko_Var2_CompProj\Bondarenko_Var2_CompProj\obj\Debug\Bondarenko_Var2_CompProj.csproj.CoreCompileInputs.cache
+E:\LIT 22-23\Bondarenko_Var2_CompProj\Bondarenko_Var2_CompProj\obj\Debug\Bondarenko_Var2_CompProj.exe
+E:\LIT 22-23\Bondarenko_Var2_CompProj\Bondarenko_Var2_CompProj\obj\Debug\Bondarenko_Var2_CompProj.pdb
